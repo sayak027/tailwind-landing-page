@@ -4,7 +4,7 @@ A responsive landing page built using HTML and Tailwind CSS as a learning and pr
 
 ## 🔗 Live Demo
 
-[View Live Website](https://landingpage-sayak.vercel.app/)
+[View Live Website](https://sayak-landingpage.vercel.app/)
 
 ## 🚀 Tech Stack
 
